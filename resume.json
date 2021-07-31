@@ -1,0 +1,27 @@
+{
+	"basics": {
+		"name": "Saharsh Sharma",
+		"label": "Student",
+		"email": "2018kucp1063@iiitkota.ac.in",
+		"phone": "9589005458",
+		},
+		"profiles": [
+			{
+				"network": "linkedin",
+				"username": "Saharsh Sharma",
+				"url": "https://www.linkedin.com/in/saharsh1899/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "2022-04-08",
+		"gpa": "7.1",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}]
+}
